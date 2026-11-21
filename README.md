@@ -1,6 +1,6 @@
 # 🎬 CineVerse — Entertainment Intelligence OS & Decision Cockpit
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://lovable-project-0e47b736.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://cinephile-theatre.vercel.app)
 [![React](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TanStack Router](https://img.shields.io/badge/TanStack_Router-1.170-FF4154?style=for-the-badge&logo=tanstack&logoColor=white)](https://tanstack.com/router)
@@ -13,7 +13,7 @@
 
 ## 🌟 Live Deployment
 
-- **Production URL:** [https://lovable-project-0e47b736.vercel.app](https://lovable-project-0e47b736.vercel.app)
+- **Production URL:** [https://cinephile-theatre.vercel.app](https://cinephile-theatre.vercel.app)
 - **Local Development:** `http://localhost:3000`
 
 ---
