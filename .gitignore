@@ -40,3 +40,9 @@ dist-ssr
 lovable-*-extracted/
 vr-starter-extracted/
 .vercel
+
+.claude
+
+.lovable
+
+AGENTS.md
